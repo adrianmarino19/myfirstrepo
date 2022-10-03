@@ -1,2 +1,3 @@
-def potato(a, b):
+
+def table(a, b):
     return a + b
